@@ -1,2 +1,2 @@
 # Snake
-Snake game made in Unity
+Snake game made with Unity
